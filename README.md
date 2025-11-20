@@ -50,7 +50,7 @@ I'm always interested in connecting with fellow developers, discussing new techn
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-kazmer/)
 - 📧 Email: [kazmermaximiliano@gmail.com](mailto:kazmermaximiliano@gmail.com)
-- 🌐 Portfolio: [Your Portfolio URL](https://maximilianokazmer.net.ar/)
+- 🌐 [Portfolio](https://maximilianokazmer.net.ar/)
 
 ---
 

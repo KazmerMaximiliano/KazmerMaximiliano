@@ -1,57 +1,53 @@
-# Hello, I'm Maximiliano Kazmer 👋
+# Hi, I’m Maxi Kazmer
 
-**Mobile Development Specialist | Full Stack Developer | Web Applications Developer | Unique Experiences Developer**
+Software Engineer & Tech Lead based in Córdoba, Argentina. Building web and mobile products since 2019, with a focus on React, Flutter, clean architecture and AI integration.
 
-> I am excited by paths that lead to bold ideas and projects that challenge the status quo. My email is always open, so if you want to share an idea, ask me a question, or just say hello, I would be delighted to hear from you.
+My open-source work brings that background into tools for building interfaces with agents and automating deployments. I care about architecture that is easy to evolve and workflows that others can inspect, use and extend.
 
----
+[Portfolio](https://maximilianokazmer.net.ar) · [LinkedIn](https://www.linkedin.com/in/maximiliano-kazmer/)
 
-## 🚀 About Me
+## Open-source projects
 
-I am a full-stack developer with over **5 years of experience** in mobile and web development, specializing in **Flutter**, **React Native**, and other hybrid development technologies. I have led technical teams and promoted best practices in challenging projects, applying the best and most modern development practices. I stand out for my versatility, focus on quality, teamwork, and passion for continuous learning.
+### [Neus UI](https://github.com/KazmerMaximiliano/neus-ui)
 
-## 💻 Tech Stack
+A React and TypeScript UI library with an agent-assisted design workflow that connects a product brief to implementation and review.
 
-### Frontend
+- Reusable components, sections and design systems for building interfaces.
+- A setup CLI that installs skills for design and auditing, along with a review subagent.
+- Structured specifications and project context to guide implementation and verification.
 
-- **Mobile:** Android, iOS, Flutter, React Native, Dart, TypeScript, Kotlin, Swift
-- **Web:** React, Vue.js, JavaScript, HTML5, CSS3, SASS
-- **UI/UX:** Responsive Design, Accessibility
+**Built with:** React · TypeScript · Node.js · AI agent skills and subagents
 
-### Backend
+### [PushBox](https://github.com/KazmerMaximiliano/PushBox)
 
-- **Languages:** PHP, Node.js, JavaScript
-- **Frameworks:** Laravel, Express.js, NestJS
-- **Databases:** MySQL, MongoDB, PostgreSQL
+A local deployment tool for publishing websites to your own VPS through GitHub Actions, SSH and Caddy.
 
-### DevOps & Tools
+- A local interface for configuring and following deployments.
+- Deployment tracking through completion, with checks along the workflow.
+- Hexagonal architecture across a React frontend and a Node.js backend.
 
-- **Cloud:** AWS, DigitalOcean
-- **Servers:** Apache, Nginx, Linux
-- **Version Control:** Git, GitHub
-- **Project Management:** Agile Methodologies, Scrum
+**Built with:** React · TypeScript · Node.js · Express · SQLite · GitHub Actions · SSH · Caddy
 
----
+## Technology stack
 
-## 🎯 Core Competencies
+| Area | Tools and practices |
+| --- | --- |
+| AI agents and LLMs | Agent orchestration, context engineering, skill engineering, agent and subagent design |
+| Development methods | Spec-driven development (SDD), Loop Engineering, implementation review and verification |
+| Web and mobile | TypeScript, JavaScript, React, React Native, Flutter/Dart, Vue.js, Web Components |
+| Backend and data | Node.js, PHP/Laravel, MySQL, MongoDB, SQLite |
+| Architecture | Clean Architecture, hexagonal architecture, micro frontends |
+| DevOps and delivery | CI/CD, GitHub Actions, Docker, Linux, AWS, DigitalOcean |
+| Collaboration | Technical leadership, Scrum, Kanban, Agile |
 
-- **🏗️ Architecture Design:** Clean Architecture, Design Patterns, Scalable Solutions
-- **📱 Mobile Development:** Native & Cross-platform (Flutter, React Native)
-- **🌐 Web Development:** Modern frameworks, Responsive Design, Performance Optimization
-- **👥 Team Leadership:** Technical Leadership, Agile Methodologies, Best Practices
-- **🔄 DevOps:** CI/CD, Cloud Deployment, Server Management
-- **🛡️ Quality Assurance:** Testing, Code Review, Performance Monitoring
+## What I’m working on
 
----
+- Developing **Neus UI** and its workflows for building and reviewing interfaces with AI agents.
+- Evolving **PushBox** as a local tool for managing static-site deployments.
+- Improving the context, skills and feedback loops that guide agents through implementation and verification.
 
-## 🤝 Let's Connect!
+## Get in touch
 
-I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Feel free to reach out!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-kazmer/)
-- 📧 Email: [kazmermaximiliano@gmail.com](mailto:kazmermaximiliano@gmail.com)
-- 🌐 [Portfolio](https://maximilianokazmer.net.ar/)
-
----
-
-_"I am excited by paths that lead to bold ideas and projects that challenge the status quo."_
+- **Portfolio:** [maximilianokazmer.net.ar](https://maximilianokazmer.net.ar)
+- **LinkedIn:** [Maximiliano Kazmer](https://www.linkedin.com/in/maximiliano-kazmer/)
+- **Languages:** Spanish (native) · English (B2); Spanish preferred.
